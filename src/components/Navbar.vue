@@ -31,5 +31,6 @@
 </script>
 
 <style scoped>
-nav{background-color: lightgreen}
+nav{background-color: #eca71e
+}
 </style>
